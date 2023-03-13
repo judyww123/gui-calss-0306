@@ -24,7 +24,19 @@ namespace _2023_3_6
 
         private void label3_Click(object sender, EventArgs e)
         {
+            //MessageBox.Show("我真的好可愛~");
+            Form btn = new Form_button();
+            btn.Show();
+        }
 
+        private void btn_button_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("單身狗♥");
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("");
         }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\MEGAS\Desktop\0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.csproj.Generate
 C:\Users\MEGAS\Desktop\0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.exe
 C:\Users\MEGAS\Desktop\0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.pdb
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\bin\Debug\2023-3-6.exe.config
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\bin\Debug\2023-3-6.exe
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\bin\Debug\2023-3-6.pdb
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Form1.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.exe
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.pdb

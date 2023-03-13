@@ -32,6 +32,7 @@ namespace _2023_3_6
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.btn_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -58,6 +59,7 @@ namespace _2023_3_6
             this.label2.Size = new System.Drawing.Size(131, 47);
             this.label2.TabIndex = 1;
             this.label2.Text = "純喫茶";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -71,11 +73,22 @@ namespace _2023_3_6
             this.label3.Text = "阿文";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
+            // btn_button
+            // 
+            this.btn_button.Location = new System.Drawing.Point(398, 64);
+            this.btn_button.Name = "btn_button";
+            this.btn_button.Size = new System.Drawing.Size(75, 23);
+            this.btn_button.TabIndex = 3;
+            this.btn_button.Text = "♥";
+            this.btn_button.UseVisualStyleBackColor = true;
+            this.btn_button.Click += new System.EventHandler(this.btn_button_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_button);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -91,6 +104,7 @@ namespace _2023_3_6
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btn_button;
     }
 }
 
