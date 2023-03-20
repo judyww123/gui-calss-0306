@@ -45,7 +45,6 @@ namespace _2023_3_6
             this.label1.Size = new System.Drawing.Size(134, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "小魔仙";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -59,7 +58,6 @@ namespace _2023_3_6
             this.label2.Size = new System.Drawing.Size(131, 47);
             this.label2.TabIndex = 1;
             this.label2.Text = "純喫茶";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -71,7 +69,6 @@ namespace _2023_3_6
             this.label3.Size = new System.Drawing.Size(780, 795);
             this.label3.TabIndex = 2;
             this.label3.Text = "阿文";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // btn_button
             // 
