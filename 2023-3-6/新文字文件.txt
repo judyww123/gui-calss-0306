@@ -1,4 +1,4 @@
-git add.
+git add .
 
 git config --global user.email "lolo2055@gmail.com"
 

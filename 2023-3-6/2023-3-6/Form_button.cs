@@ -31,5 +31,27 @@ namespace _2023_3_6
                 btn_button1.Text = "請再按一次";
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "下方按鈕被按過";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string temp = label3.Text;
+            int count = 0;
+            count = Int32.Parse(temp) + 1;
+            label3.Text = "0";
+            label3.Text = count + "";
+            label3.Text = count.ToString();
+
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            short sizeNum = 10;
+            button3.Size = new Size(button3.Width + sizeNum, button3.Height + sizeNum);
+        }
     }
 }
