@@ -25,5 +25,10 @@ namespace _2023_3_6
             btn.Show();
         }
 
+        private void button_texBox_Click(object sender, EventArgs e)
+        {
+            Form form_TextBox = new TextBox();
+            form_TextBox.Show();
+        }
     }
 }

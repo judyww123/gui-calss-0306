@@ -33,6 +33,7 @@ namespace _2023_3_6
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btn_button = new System.Windows.Forms.Button();
+            this.button_TextBox = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -64,7 +65,7 @@ namespace _2023_3_6
             this.label3.BackColor = System.Drawing.Color.Violet;
             this.label3.Font = new System.Drawing.Font("微軟正黑體", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label3.Image = global::_2023_3_6.Properties.Resources._163177108852900_P13877757;
-            this.label3.Location = new System.Drawing.Point(281, 113);
+            this.label3.Location = new System.Drawing.Point(257, 122);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(780, 795);
             this.label3.TabIndex = 2;
@@ -80,11 +81,22 @@ namespace _2023_3_6
             this.btn_button.UseVisualStyleBackColor = true;
             this.btn_button.Click += new System.EventHandler(this.btn_button_Click);
             // 
+            // button_TextBox
+            // 
+            this.button_TextBox.Location = new System.Drawing.Point(54, 182);
+            this.button_TextBox.Name = "button_TextBox";
+            this.button_TextBox.Size = new System.Drawing.Size(75, 23);
+            this.button_TextBox.TabIndex = 4;
+            this.button_TextBox.Text = "請輸入";
+            this.button_TextBox.UseVisualStyleBackColor = true;
+            this.button_TextBox.Click += new System.EventHandler(this.button_texBox_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button_TextBox);
             this.Controls.Add(this.btn_button);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -102,6 +114,7 @@ namespace _2023_3_6
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btn_button;
+        private System.Windows.Forms.Button button_TextBox;
     }
 }
 
