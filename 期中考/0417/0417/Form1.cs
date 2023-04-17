@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _2023_3_6
+namespace _0417
 {
     public partial class Form1 : Form
     {
@@ -17,20 +17,10 @@ namespace _2023_3_6
             InitializeComponent();
         }
 
-
-        private void btn_button_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("單身狗♥");
-            Form btn = new Form_button();
-            btn.Show();
+            Form Form2 = new Form2();
+            Form2.Show();
         }
-
-        private void button_texBox_Click(object sender, EventArgs e)
-        {
-            Form form_TextBox = new TextBox();
-            form_TextBox.Show();
-        }
-
-
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _2023_3_6
+namespace _0417
 {
     static class Program
     {

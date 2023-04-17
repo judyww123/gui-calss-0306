@@ -1,0 +1,11 @@
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\bin\Debug\0417.exe.config
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\bin\Debug\0417.exe
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\bin\Debug\0417.pdb
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\0417.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\_0417.Form1.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\_0417.Form2.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\_0417.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\0417.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\0417.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\0417.exe
+C:\Users\MEGAS\Desktop\gui-calss-0306\期中考\0417\0417\obj\Debug\0417.pdb

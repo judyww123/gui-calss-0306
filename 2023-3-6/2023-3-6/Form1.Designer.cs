@@ -31,9 +31,9 @@ namespace _2023_3_6
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.btn_button = new System.Windows.Forms.Button();
             this.button_TextBox = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -60,17 +60,6 @@ namespace _2023_3_6
             this.label2.TabIndex = 1;
             this.label2.Text = "純喫茶";
             // 
-            // label3
-            // 
-            this.label3.BackColor = System.Drawing.Color.Violet;
-            this.label3.Font = new System.Drawing.Font("微軟正黑體", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label3.Image = global::_2023_3_6.Properties.Resources._163177108852900_P13877757;
-            this.label3.Location = new System.Drawing.Point(257, 122);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(780, 795);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "阿文";
-            // 
             // btn_button
             // 
             this.btn_button.Location = new System.Drawing.Point(398, 64);
@@ -90,6 +79,17 @@ namespace _2023_3_6
             this.button_TextBox.Text = "請輸入";
             this.button_TextBox.UseVisualStyleBackColor = true;
             this.button_TextBox.Click += new System.EventHandler(this.button_texBox_Click);
+            // 
+            // label3
+            // 
+            this.label3.BackColor = System.Drawing.Color.Violet;
+            this.label3.Font = new System.Drawing.Font("微軟正黑體", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label3.Image = global::_2023_3_6.Properties.Resources._163177108852900_P13877757;
+            this.label3.Location = new System.Drawing.Point(257, 122);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(780, 795);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "阿文";
             // 
             // Form1
             // 
