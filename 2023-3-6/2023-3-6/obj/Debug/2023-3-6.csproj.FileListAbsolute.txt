@@ -20,5 +20,4 @@ C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.exe
 C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\2023-3-6.pdb
 C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Form_button.resources
 C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.TextBox.resources
-C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Form3_1.resources
-C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Form3.resources
+C:\Users\MEGAS\Desktop\gui-calss-0306\2023-3-6\2023-3-6\obj\Debug\_2023_3_6.Form1_panel.resources
